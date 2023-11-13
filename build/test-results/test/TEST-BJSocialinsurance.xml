@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BJSocialinsurance" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-13T09:54:59" hostname="DESKTOP-3PRMKK8" time="28.28">
+  <properties/>
+  <testcase name="main()" classname="BJSocialinsurance" time="28.28"/>
+  <system-out><![CDATA[setUp
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 119.0.6045.105 (38c72552c5e15ba9b3117c0967a0fd105072d7c6-refs/branch-heads/6045@{#1103}) on port 31576
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+十一月 13, 2023 5:55:01 下午 org.openqa.selenium.remote.ProtocolHandshake createSession
+信息: Detected dialect: W3C
+]]></system-err>
+</testsuite>
